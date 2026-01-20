@@ -15,7 +15,7 @@ Advanced spatial analysis and data science for urban planning and public policy.
 - **Final Project:** Capstone modeling challenge
 
 ## About Me
-[Students will customize this section]
+My name is Hannah. I'm a third year Landscape Architecture student. I grew up in Michigan but have lived on the East Coast for the past 10 years, in Boston and NYC. I'm taking this course because I'm interested in building my proficiency with handling large spatial data sets and visualizing them in GIS.
 
 ## Contact
 - Email: hannahlc@upenn.edu
